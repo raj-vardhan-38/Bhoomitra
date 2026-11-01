@@ -1,0 +1,35 @@
+# Secrets & Environment
+.env
+*.env
+.env.*
+backend/.env
+frontend/.env
+
+# Python virtual environment & cache
+.venv/
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.cache/
+
+# Node / Vite build
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.vite/
+
+# Presentations, PDFs & Office Documents
+*.pptx
+*.ppt
+*.pdf
+*.docx
+*.doc
+PRESENTATION_GUIDE_AND_NOTES.md
+
+# Temporary & OS files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp

@@ -1,0 +1,73 @@
+{
+  "_note": "SAMPLE DATA FOR BHOOMITRA CIVIC ASSISTANCE PROTOTYPE. Synthetic data. Not real people, not official data. Fictional records in a khatiyan-like structure.",
+  "records": [
+    {
+      "district": "Patna",
+      "circle": "Fatuha",
+      "mauza": "Rampur Kalan",
+      "thana_no": 112,
+      "khata_no": 45,
+      "holder": "Ram Prasad Yadav (late)",
+      "father": "Shiv Prasad Yadav",
+      "plots": [
+        {
+          "khesra": 311,
+          "area_decimal": 42,
+          "type": "agricultural (dhanhar)"
+        },
+        {
+          "khesra": 312,
+          "area_decimal": 18,
+          "type": "homestead (basauri)"
+        }
+      ],
+      "last_rent_receipt_year": 2019,
+      "jamabandi_no": "JB-0921",
+      "mutation_pending": false
+    },
+    {
+      "district": "Nalanda",
+      "circle": "Hilsa",
+      "mauza": "Chandpur",
+      "thana_no": 87,
+      "khata_no": 102,
+      "holder": "Sunita Devi",
+      "father_or_husband": "Ramesh Mahto (husband)",
+      "plots": [
+        {
+          "khesra": 77,
+          "area_decimal": 25,
+          "type": "agricultural"
+        }
+      ],
+      "last_rent_receipt_year": 2025,
+      "jamabandi_no": "JB-1544",
+      "mutation_pending": true,
+      "mutation_case": "MC-2026-0312 (pending since 4 months)"
+    },
+    {
+      "district": "Gaya",
+      "circle": "Wazirganj",
+      "mauza": "Bhusunda",
+      "thana_no": 201,
+      "khata_no": 9,
+      "holder": "Abdul Karim",
+      "father": "Rahim Bux",
+      "plots": [
+        {
+          "khesra": 1023,
+          "area_decimal": 60,
+          "type": "agricultural"
+        },
+        {
+          "khesra": 1024,
+          "area_decimal": 5,
+          "type": "pond (talab)"
+        }
+      ],
+      "last_rent_receipt_year": 2024,
+      "jamabandi_no": "JB-0077",
+      "mutation_pending": false
+    }
+  ]
+}

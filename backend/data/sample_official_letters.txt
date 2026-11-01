@@ -1,0 +1,19 @@
+# SAMPLE DATA FOR BHOOMITRA CIVIC ASSISTANCE PROTOTYPE. Synthetic data. Not real people, not official data.
+# FICTIONAL letters for testing the "explain this document" feature.
+
+[LETTER 1]
+Office of the Circle Officer, Fatuha (Patna)
+Notice No. 214/2026   Date: 12-10-2026
+Subject: Special Land Survey 2026, Mauza Rampur Kalan
+All raiyats of Mauza Rampur Kalan are informed that the self-declaration (Prapatra-S1) along with copies of khatiyan, latest rent receipt and Aadhaar must be submitted at the camp in Panchayat Bhawan between 20-10-2026 and 18-11-2026. Heirs of deceased raiyats shall submit vanshavali. No fee is payable.
+
+[LETTER 2]
+Office of the Deputy Collector Land Reforms, Hilsa
+Letter No. 88   Date: 01-10-2026
+To: Smt. Sunita Devi, Mauza Chandpur
+Your mutation case MC-2026-0312 is pending for want of the registered sale deed copy. You are directed to produce the same within 21 days, failing which the case may be rejected.
+
+[LETTER 3]
+Electricity bill (sample)
+Consumer No. 1029384756   Bill Month: Sep-2026   Units consumed: 142   Amount payable: Rs 1,086   Due date: 15-10-2026
+Late payment surcharge applicable after due date. Pay online via the official app or at the cash counter.
